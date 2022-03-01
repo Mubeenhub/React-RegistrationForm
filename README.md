@@ -1,4 +1,5 @@
-# This Project Outputs data in Object notation to be further prosessed using JSON 
+# Project Outputs Data in Object notation to be further prosessed using JSON 
+View Console to View the output
 
 # Getting Started with Create React App
 
