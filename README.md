@@ -1,4 +1,4 @@
-<h3>This Project Outputs data in Object notation to be further prosessed using JSON </h3>
+# This Project Outputs data in Object notation to be further prosessed using JSON 
 
 # Getting Started with Create React App
 
